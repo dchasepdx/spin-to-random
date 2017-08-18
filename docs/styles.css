@@ -1,0 +1,23 @@
+html, body {
+  background-color: #1C242D;
+}
+
+main {
+  color: #CCCCCC;
+  text-align: center;
+}
+
+#spin {
+  background-color: #242F39;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 5px; 
+  width: 200px;
+  padding: 25px 0;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+img {
+  border: 5px solid black;
+}
